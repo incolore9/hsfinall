@@ -1,27 +1,112 @@
 $(document).ready(()=>{
     let list = [
 		{ 	
-			img_title : "title1",
-			img_url : "3.jpg" ,
-			img_desc : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Non ratione ipsum ipsa mollitia vel deserunt nulla dolores. Consequuntur, eum pariatur vitae laboriosam earum iure amet minus nisi dolorum in suscipit?"
+			img_title : "<573돌 한글날 : 다시 보는 한글, 다시 보는 한울>",
+			img_url : "0.jpg" ,
+			img_desc : "" 
 		},
 		{ 	
-			img_title : "title2",
+			img_title : "2019년 한국의 그래픽 문화. 문한샘, 박한솔",
+			img_url : "1.jpg" ,
+			img_desc : "" 
+		},
+		{ 	
+			img_title : "",
 			img_url : "3.jpg" ,
-			img_desc : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae enim voluptatum quasi blanditiis cum dolore numquam eaque praesentium reprehenderit itaque veniam ipsam possimus qui, ab quo quas, at similique inventore."
+			img_desc : "" 
+		},
+		{ 	
+			img_title : "6번째 감각",
+			img_url : "4.jpg" ,
+			img_desc : "인간의 다섯가지 감각을 벗어나 과학적으로 설명되지 않는 예지럭, 직감, 텔레파시, 투시 등을 포함하고 있는 ‘6번째 감각’. 이것이 발현될 때 머리에서 연상되는 이미지 혹은 신체에 오는 여러 반응이 뒤섞이는 그 순간을 시각화하고자 하였습니다. 시각디자인과 연합 소모임 D:sense 에서 ‘감각’을 주제로 진행된 전시에 출품한 작업입니다." 
+		},
+		{ 	
+			img_title : "",
+			img_url : "5.jpg" ,
+			img_desc : "" 
+		},
+		{ 	
+			img_title : "",
+			img_url : "6.jpg" ,
+			img_desc : "" 
+		},
+		{ 	
+			img_title : "",
+			img_url : "7.jpg" ,
+			img_desc : "" 
+		},
+		{ 	
+			img_title : "",
+			img_url : "8.jpg" ,
+			img_desc : "" 
+		},
+		{ 	
+			img_title : "",
+			img_url : "9.jpg" ,
+			img_desc : "" 
 		},
 	];
 
 	let list2 = [
 		{ 	
-			img_title : "title3",
-			img_url : "3.jpg" ,
-			img_desc : "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nam unde temporibus est veritatis dicta iure repellat aliquam velit quae earum hic fugit totam, optio corporis illum ratione? Placeat, et perspiciatis."
+			img_title : "lettt",
+			img_url : "l1.jpg" ,
+			img_desc : "" 
 		},
 		{ 	
-			img_title : "title4",
-			img_url : "3.jpg" ,
-			img_desc : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit, voluptas quis quaerat natus commodi tempora ad illo minus amet sit nemo eligendi quibusdam illum maxime, unde officiis dignissimos! Voluptatem, maxime!"
+			img_title : "lettt",
+			img_url : "l2.jpg" ,
+			img_desc : "" 
+		},
+		{ 	
+			img_title : "lettt",
+			img_url : "l3.jpg" ,
+			img_desc : "" 
+		},
+		{ 	
+			img_title : "lettt",
+			img_url : "l4.jpg" ,
+			img_desc : "" 
+		},
+		{ 	
+			img_title : "lettt",
+			img_url : "l5.jpg" ,
+			img_desc : "" 
+		},
+		{ 	
+			img_title : "lettt",
+			img_url : "l6.jpg" ,
+			img_desc : "" 
+		},
+		{ 	
+			img_title : "lettt",
+			img_url : "l7.jpg" ,
+			img_desc : "" 
+		},
+		{ 	
+			img_title : "lettt",
+			img_url : "l8.jpg" ,
+			img_desc : "" 
+		},
+		{ 	
+			img_title : "lettt",
+			img_url : "l9.jpg" ,
+			img_desc : "" 
+		},
+		{ 	
+			img_title : "lettt",
+			img_url : "l10.jpg" ,
+			img_desc : "" 
+		},
+		{ 	
+			img_title : "lettt",
+			img_url : "l11.jpg" ,
+			img_desc : "" 
+		},
+		{ 	
+			img_title : "lettt",
+			img_url : "l12.jpg" ,
+			img_desc : "" 
 		},
 	];
 	
