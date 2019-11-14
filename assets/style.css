@@ -17,6 +17,7 @@ p{font-size: 24px; line-height: 1.7; word-break: keep-all;}
 			  background-color: #1f1f1f;}
 
 	.align-center{display: flex;justify-content: center;align-items: center;}
+	
 	#guidebox1-1{top: 7%; left: 53%; 
 				width:4%; background-color: #787878; z-index: 1;
 				height: 41%; position: absolute;}
@@ -63,7 +64,6 @@ background-color: #e3e3e3; position: absolute;}
 
 /* ---------------------------------------- */
 
-
 #maingraphic{width: 50%; height: 100%; float: left;
 	background-color: #dbdbdb; overflow: scroll;}
 #mainlettering{width: 40%; height: 100%; float: left;
@@ -71,14 +71,18 @@ background-color: #e3e3e3; position: absolute;}
 
 #mainindex{text-align: center; padding: 10px; margin:0;}
 
-.artworkframe{width:15%; height: auto; float: left;
-		 overflow: hidden; padding:0.7%;}
+/* ------------------아트웍----------- */
+
+.artworkframe{width:22%; height: auto; float: left;
+		 		overflow: hidden; padding:1%;}
+
 .detailframe{width:90%; height: auto; float: top;
 		 overflow: hidden; padding: 0% 5% 0% 5%;}
 .pic{width: 100%; height: auto; overflow: hidden;}
 
 
 /* 스크롤 바 세팅 ------------------------- */
+
 ::-webkit-scrollbar{width: 3px;}
 
 ::-webkit-scrollbar-thumb { background-color:#525252;}
